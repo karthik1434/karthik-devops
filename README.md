@@ -1,1 +1,3 @@
-# karthik-devops
+# WELCOME TO DEVOPS REPO
+# AOUTHER = KARTHIK DUGGANA
+# hello world
