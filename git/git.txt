@@ -1,1 +1,32 @@
-git clone <url> # clone remote repo in local mashion
+how to config local directory to remote repositary ?
+
+    sudo yum install git -y
+    
+    git --version
+
+    git init 
+
+    git add < . or specific file name>
+
+    git commit -m "any thing you remember"
+
+    git bramch -M <bramch name>
+
+    git remote add origin <url>
+
+    git push -u origin <branch name>
+
+
+
+
+
+how to clone remote repo in local mashion ?  git clone <url of repo>
+
+how to pull changes from remote repo ? git pull origin <branch name>
+
+how to fetch repo to local mashion ?
+
+how to merge ?
+
+how compaire changes ?
+ 
