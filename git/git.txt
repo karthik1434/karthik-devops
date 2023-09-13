@@ -1,1 +1,1 @@
-git clone url # clone remote repo in local mashion
+git clone <url> # clone remote repo in local mashion
