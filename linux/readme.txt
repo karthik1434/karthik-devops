@@ -5,4 +5,7 @@
 #     *     -it is days 1 to 31
 #       *   -it is months 1 to 12
 #         * -it is day of week 0 to 6
- 
+
+
+systemctl status httpd #how to check servece running ststus
+
