@@ -15,8 +15,3 @@ docker run -it -d -p 80:80 httpd
 docker ps
 docker run -it -d -p 9000:9000 sonarqube
 docker rmi my-image:tag-to-remove
-sudo docker build -t <image namesudo docker exec 2683b7296fbe cat /var/jenkins_home/secrets/initialAdminPassword  # to view jenkins addmi password
-
-
-
-

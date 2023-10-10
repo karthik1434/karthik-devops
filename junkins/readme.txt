@@ -17,3 +17,5 @@
   9   sudo systemctl status jenkins #check jenkins status
  
   10  sudo cat /var/lib/jenkins/secrets/initialAdminPassword # view innitial password
+
+  11 sudo docker build -t <image namesudo docker exec 2683b7296fbe cat /var/jenkins_home/secrets/initialAdminPassword  # to view jenkins addmi password in docker cantainer
